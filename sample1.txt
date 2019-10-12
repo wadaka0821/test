@@ -1,3 +1,4 @@
 Hello!
 This is sample txit.
+This is new line.
 Is this comment reflected to text?
